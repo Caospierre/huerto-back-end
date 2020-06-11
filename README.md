@@ -10,7 +10,7 @@
 Hasura lo ayuda a crear aplicaciones GraphQL respaldadas por Postgres o moverse gradualmente a
 GraphQL para aplicaciones existentes que usan Postgres.
 
-Leer mas [hasura.io](https://hasura.io) and the [docs](https://docs.hasura.io). 
+Leer mas [hasura.io](https://hasura.io) Documentacion [docs](https://docs.hasura.io). 
 
 
 ## Quickstart
